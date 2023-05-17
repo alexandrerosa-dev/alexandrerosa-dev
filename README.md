@@ -7,8 +7,7 @@
 
 ![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrerosa-dev&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrerosa-dev&langs_count=8)](https://github.com/alexandrerosa-dev/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrerosa-dev&hide_progress=true)](https://github.com/alexandrerosa-dev/github-readme-stats)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display inline_block"></br>
